@@ -1,3 +1,3 @@
 export const config = {
-    API_URL: "http://localhost:9000"
+    API_URL: "https://todobackend-dun.vercel.app/"
   };
